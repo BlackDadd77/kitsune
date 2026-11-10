@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Persekitaran Maya (Virtual Environments)
+.venv/
+venv/
+ENV/
+env/
+
+# Pangkalan Data & Fail Sensitif
+*.db
+*.sqlite3
+.env
+*.pem
+*.key
+*.log
+
+# Termux & System Junk
+.DS_Store
+*.swp
+*~
+tanganemas_project.zip
+downloads/
+*.db
+*.log
